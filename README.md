@@ -21,12 +21,12 @@ Partie 2 : Architecture CNN sur Tensorflow
 
 Cette deuxième partie est réservée pour développer le modèle CNN sur tensorflow, et lancée par la suite l’apprentissage de CNN.
 
-    Au début, il faut préparer et appliquer la Data Augmentation sur les données d’apprentissage.
-    Charger et configurer le modèle VGG16 pour l’application souhaitée.
-    Appeler le ModelCheckpoint pour sauvgarder le meilleurs modèle durant l’apprentissage (from keras.callbacks import ModelCheckpoint)
-    Lancer un apprentissage en utilisant les données d’apprentissage et les données de validation avec un historique.
-    Tracer les courbes d’accuracy et d’erreur de train et validation.
-    Calculer l’accuracy et la matrice de confusion sur les données de test.
+   -  Au début, il faut préparer et appliquer la Data Augmentation sur les données d’apprentissage.
+   -  Charger et configurer le modèle VGG16 pour l’application souhaitée.
+   -  Appeler le ModelCheckpoint pour sauvgarder le meilleurs modèle durant l’apprentissage (from keras.callbacks import ModelCheckpoint)
+   -  Lancer un apprentissage en utilisant les données d’apprentissage et les données de validation avec un historique.
+   -  Tracer les courbes d’accuracy et d’erreur de train et validation.
+   -  Calculer l’accuracy et la matrice de confusion sur les données de test.
 
 ​
 
